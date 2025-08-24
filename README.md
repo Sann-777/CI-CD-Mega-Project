@@ -3,16 +3,15 @@
 WanderLust is a simple MERN travel blog website ✈ This project is aimed to help people to contribute in open source, upskill in react and also master git.
 
 ![Preview Image](https://github.com/krishnaacharyaa/wanderlust/assets/116620586/17ba9da6-225f-481d-87c0-5d5a010a9538)
-#
 
 # Wanderlust – CI/CD Homelab Setup
 
-### This project is about setting up a CI/CD pipeline for a three-tier app named Wanderlust, which allows posting travel blogs. I built this setup in my homelab environment using Jenkins, Docker, Kubernetes (k3s), ArgoCD, SonarQube, Trivy, Prometheus, and Grafana.
-### The whole purpose of this lab was to practice real-world DevOps workflows but in a compact setup on my personal machines.
-#
+This project is about setting up a CI/CD pipeline for a three-tier app named Wanderlust, which allows posting travel blogs. I built this setup in my homelab environment using Jenkins, Docker, Kubernetes (k3s), ArgoCD, SonarQube, Trivy, Prometheus, and Grafana.
+
+The whole purpose of this lab was to practice real-world DevOps workflows but in a compact setup on my personal machines.
+
 ### <mark>Project Deployment Flow:</mark>
 ![image](screenshots/Workflow.png)
-#
 
 ## Tech stack used in this project:
 - GitHub (Code)
