@@ -138,7 +138,7 @@ You can check my shared library code here:
    * Linked GitHub repo + deployment manifests path.
 
 - <b>ArgoCD application for deployment on Cluster</b>
-![image](https://github.com/user-attachments/assets/1ea9d486-656e-40f1-804d-2651efb54cf6)
+![image](screenshots/ArgoCD.png)
 
 ---
 
@@ -158,19 +158,6 @@ You can check my shared library code here:
 * Compact homelab setup for practice.
 * In production → everything should be **separated** (Jenkins, ArgoCD, monitoring, SonarQube on different servers).
 * Shared library approach helped make Jenkins pipelines **clean and readable**.
-
----
-
-## 📌 Tags for Blog
-
-* `#DevOps`
-* `#Jenkins`
-* `#ArgoCD`
-* `#Kubernetes`
-* `#CICD`
-* `#Prometheus`
-* `#Grafana`
-* `#Homelab`
 
 ---
 
