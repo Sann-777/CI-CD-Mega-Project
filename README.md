@@ -150,7 +150,6 @@ You can check my shared library code here:
 3. Connected Prometheus to Grafana.
 4. Added dashboards to visualize **Kubernetes cluster metrics**.
 
-📸 *\[Place Grafana dashboards screenshots here]*
 - <b>Grafana Dashboard to view System Metrics</b>
 ![image](screenshots/Grafana.png)
 ---
@@ -173,26 +172,6 @@ You can check my shared library code here:
 * `#Prometheus`
 * `#Grafana`
 * `#Homelab`
-
----
-
-## 📂 Folder Structure (for GitHub Repo)
-
-```bash
-wanderlust-infra/
-│── Jenkinsfile.ci
-│── Jenkinsfile.cd
-│── argocd/
-│   └── application.yaml
-│── k8s-manifests/
-│   ├── deployment.yaml
-│   ├── service.yaml
-│   └── ingress.yaml
-│── monitoring/
-│   ├── prometheus-values.yaml
-│   └── grafana-values.yaml
-│── README.md
-```
 
 ---
 
