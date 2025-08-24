@@ -106,6 +106,9 @@ You can check my shared library code here:
 - <b>CI pipeline to build and push</b>
 ![image](screenshots/Jenkins_CI.png)
 
+- <b>SonarQube Quality Gate</b>
+![image](screenshots/Sonarqube.png)
+
 - <b>CD pipeline to update application version</b>
 ![image](screenshots/Jenkins_CD.png)
 
@@ -150,7 +153,8 @@ You can check my shared library code here:
 4. Added dashboards to visualize **Kubernetes cluster metrics**.
 
 - <b>Grafana Dashboard to view System Metrics</b>
-![image](screenshots/Grafana.png)
+![image](screenshots/Grafana_1.png)
+![image](screenshots/Grafana_2.png)
 ---
 
 ## 📝 Notes
